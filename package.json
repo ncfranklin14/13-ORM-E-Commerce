@@ -1,0 +1,25 @@
+{
+  "name": "13-orm-e-commerce",
+  "version": "1.0.0",
+  "description": "# 13 Object-Relational Mapping (ORM): E-Commerce Back End",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncfranklin14/13-ORM-E-Commerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncfranklin14/13-ORM-E-Commerce/issues"
+  },
+  "homepage": "https://github.com/ncfranklin14/13-ORM-E-Commerce#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.19.0"
+  }
+}
